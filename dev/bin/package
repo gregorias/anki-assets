@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+TARGET_PATH=ankiassets.ankiaddon
+zip ${TARGET_PATH} -j \
+  anki_assets/*.py \
+  anki_assets/manifest.json && \
+zip -r ${TARGET_PATH} \
+  assets
