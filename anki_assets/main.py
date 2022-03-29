@@ -19,7 +19,6 @@ def list_my_assets(dir: pathlib.Path) -> list[str]:
 
 IMPORT_STATEMENTS = (
     '<link rel="stylesheet" href="_aa-style.css" class="anki-assets">\n'
-    '<script src="_aa-mathjax-config.js" type="text/x-mathjax-config" class="anki-assets"></script>\n'
     '<script src="_aa-script.js" type="text/javascript" class="anki-assets"></script>\n'
 )
 
