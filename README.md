@@ -1,5 +1,7 @@
 # Anki Assets
 
+This repo is out of date. Use [my other plugins](https://ankiweb.net/shared/byauthor/112228974).
+
 An Anki plugin that manages my shared assets, i.e., JS scripts and CSS files.
 
 ## Installation
